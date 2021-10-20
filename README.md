@@ -1,5 +1,5 @@
 # CN476
-## Natthapat Liawpairoj 6110613269
+## ณัฐภัทร เลี่ยวไพโรจน์ 6110613269
 
 ### CLIP2 : https://youtu.be/6C1cQU4Gh6I (Hash function - MD 5)
 ### CLIP3 : https://youtu.be/Lfin-3ZH4aw (PKI)
