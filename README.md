@@ -8,6 +8,9 @@
 ### CLIP8 : https://youtu.be/XO2yDHZ00_s (Private key & push)
 ### CLIP9 : https://youtu.be/73cYF3iAdcc (Software Wallet)
 ### CLIP10 : https://youtu.be/X4T6LUKAroQ (HASH & PKI in blockchain)
+### IPFS : https://youtu.be/C4AXMd4US9w
+### TOR : https://youtu.be/4NsqIush7SI
+### WebID : https://youtu.be/x1FzZm6SRL4
 
 ## IPFS
 IPFS ย่อมาจาก Interplanetary File System และเป็นโปรโตคอล hypermedia แบบ opensource แบบ peer-to-peer ที่มีจุดมุ่งหมายเพื่อทำหน้าที่เป็นระบบไฟล์ที่แพร่หลายสำหรับอุปกรณ์คอมพิวเตอร์ทั้งหมด\
